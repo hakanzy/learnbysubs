@@ -1,7 +1,7 @@
 learnbysubs
 ===========
 
-Learn by Subs (Generate combined subtitle file with two different language)
+Learn by Subs (Generate combined subtitle file with two different languages)
 
 
 Usage
