@@ -1,7 +1,7 @@
 learnbysubs
 ===========
 
-Learn by Subs (Generate combined subtitle file with two different language)
+Learn by Subs (Generate combined subtitle file with two different languages)
 
 
 Usage
@@ -24,3 +24,13 @@ Usage
     Example Usage:
     
     $ learnbysubs -t turkish.srt -s english.srt -n newfile.ssa
+
+Examples
+==========
+
+- If you don't use -j parameter, your subtitle will be like this:
+![Screenshot](https://raw.github.com/hakanzy/learnbysubs/master/docs/2.png)
+
+- If you use -j parameter, your subtitle will be like this:
+![Screenshot](https://raw.github.com/hakanzy/learnbysubs/master/docs/1.png)
+
