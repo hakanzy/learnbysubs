@@ -24,3 +24,5 @@ Usage
     Example Usage:
     
     $ learnbysubs -t turkish.srt -s english.srt -n newfile.ssa
+    
++![Screenshot](https://raw.github.com/hakanzy/learnbysubs/master/docs/1.png)
