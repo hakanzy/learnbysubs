@@ -29,4 +29,4 @@ If you use -j parameter, your subtitle will be like this:
 +![Screenshot](https://raw.github.com/hakanzy/learnbysubs/master/docs/1.png)
 
 If you don't use -j parameter, your subtitle will be like this:
-+![Screenshot](https://raw.github.com/hakanzy/learnbysubs/master/docs/1.png)
++![Screenshot](https://raw.github.com/hakanzy/learnbysubs/master/docs/2.png)
