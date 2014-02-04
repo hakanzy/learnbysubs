@@ -7,9 +7,11 @@ INSTALLATION
 ==========
 
 - Use easy_install or pip
+
     $ pip install learnbysubs
 
 - Run command!
+
     $ learnbysubs
 
 Usage/Help
