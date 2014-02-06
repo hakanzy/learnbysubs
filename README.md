@@ -3,8 +3,18 @@ learnbysubs
 
 Learn by Subs (Generate combined subtitle file with two different languages)
 
+INSTALLATION
+==========
 
-Usage
+- Use easy_install or pip
+
+    $ pip install learnbysubs
+
+- Run command!
+
+    $ learnbysubs
+
+Usage/Help
 ===========
     $ learnbysubs --help
     
