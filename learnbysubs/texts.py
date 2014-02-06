@@ -28,10 +28,6 @@ Style: sub_, Arial,14,111111111,11861244,11861244,-2147483640,0,0,1,1,2,2,10,10,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:0:0.00,0:0:10.00,banner,,0000,0000,0000,Scroll up;y1;y2;30[;fadeawayheight],{\\b1}[ CREATED WITH LbS ]{\\b0}\Nhttp://github.com/hakanzy/lbs\NHave a good time!
-Dialogue: 0,0:45:0.00,0:45:5.00,banner,,0000,0000,0000,,You are watching 45 minutes!
-Dialogue: 0,1:30:0.00,1:30:5.00,banner,,0000,0000,0000,,You are watching one-half hours!
-Dialogue: 0,2:15:0.00,2:15:5.00,banner,,0000,0000,0000,,You are watching 2 hours and 15 minutes!
-Dialogue: 0,3:0:0.00,3:0:5.00,banner,,0000,0000,0000,,You are watching 3 hours!
 
 """
 
